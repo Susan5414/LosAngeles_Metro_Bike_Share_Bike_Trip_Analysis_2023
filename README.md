@@ -1,6 +1,6 @@
 # :bike: Los Angeles Metro Bike Share Bike Trip Analysis 2023 
 
-## Business Initiative  
+## Project Initiative  
 Metro Bike Share is a bicycle-sharing system in the Los Angeles, California metropolitan area. This project is designed to analyze the 2023 bike trip data from the Metro 
 Bike Share official website. The primary audience for this analysis includes Metro Bike Share stakeholders, city planners, and community leaders who are involved in managing and optimizing the bike share program.
 
