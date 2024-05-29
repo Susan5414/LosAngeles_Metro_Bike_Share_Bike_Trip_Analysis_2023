@@ -3,9 +3,11 @@
 ## Business Initiative  
 Metro Bike Share is a bicycle-sharing system in the Los Angeles, California metropolitan area. This project is designed to analyze the 2023 bike trip data from the Metro 
 Bike Share official website. The primary audience for this analysis includes Metro Bike Share stakeholders, city planners, and community leaders who are involved in managing and optimizing the bike share program.
+
 ### Project Objective
 The goal of this project is to uncover insights into rider behaviors and operating performance to provide actionable guidelines for optimizing the bike share program. 
 By understanding usage patterns and performance metrics, stakeholders can make data-driven decisions to enhance the efficiency and effectiveness of the system.
+
 ### File Description
 1. Script
 
@@ -23,6 +25,7 @@ It contains a jupyter notebook for the Python code for all data manipulation.
 
 It contains all visualizations for analysis.
 
+*Files Description:*
 * Story-Clustering: Visualization and analysis for clusters.
 * Story-EDA: Visualizations for exploratoring data.
 * Story-Regression: Visualization for the hypothesis of regression relationship.
